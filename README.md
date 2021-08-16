@@ -11,7 +11,7 @@ O projeto utiliza:
 - React; 
 - Styled Components;
 - Axios;
-- React-Router-DOM;
+- React-Router-DOM
 - React-Icons;
 
 ### Aula
